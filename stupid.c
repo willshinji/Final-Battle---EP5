@@ -1,3 +1,4 @@
+/* 7777777777777777777777777777777 */
 #include "../robot_fight.h"
 
 /* Feito por Yan, O Monitor Mais Rápido do Oeste */
