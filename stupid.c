@@ -1,5 +1,6 @@
 /* 7777777777777777777777777777777 */
 #include "../robot_fight.h"
+/* cocô */
 
 /* Feito por Yan, O Monitor Mais Rápido do Oeste */
 
