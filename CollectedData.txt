@@ -1,0 +1,7 @@
+Colisão = -5 HP
+Bullets = -10 HP
+          -10 ptos
+
+Checkpoint = +10 ptos
+2 types of checkpoint:  1) recupera bullets e/pu obstaculo
+                        2) recupera HP
