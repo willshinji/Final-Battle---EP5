@@ -1,4 +1,10 @@
-01) Quais informações conseguimos obter a cada rodada? Por exemplo, sabemos as posições de cada enenmy? Sua direçao? Dá para saber se um projétil está vindo para sua direção?
+01) Quais informações conseguimos obter a cada rodada? Por exemplo: 
+
+- Sabemos as posições de cada enenmy? Sabemos sua direçao? 
+- Dá para saber se um projétil está vindo para sua direção?
+- Quando chocamos com um obstáculo, ele é destruído ou continua preenchendo o hexagonal?
+- Teremos acesso às pontuações dos outros players?
+
 
 02) Qual estratégia o robo pode usar? Hit-and-Run? Nemesis (vingador)?
 
