@@ -5,3 +5,6 @@ Bullets = -10 HP
 Checkpoint = +10 ptos
 2 types of checkpoint:  1) recupera bullets e/pu obstaculo
                         2) recupera HP
+
+Projetil só colide com algo quando ele + outro objeto estiverem ocupando um mesmo espaço.
+Therefore, player que corre em direção a um projétil disparado nunca colide com o fogo.
